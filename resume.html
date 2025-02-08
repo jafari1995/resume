@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hamed Jafarinejad - Frontend Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #444;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            font-size: 2em;
+            color: #333;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 1.1em;
+            color: #666;
+        }
+
+        .contact {
+            margin-top: 10px;
+        }
+
+        .contact a {
+            text-decoration: none;
+            color: #3498db;
+            margin: 0 10px;
+            font-size: 0.9em;
+        }
+
+        .contact a:hover {
+            text-decoration: underline;
+        }
+
+        .content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 30px;
+        }
+
+        section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f7f7f7;
+            border-radius: 8px;
+        }
+
+        h2 {
+            font-size: 1.4em;
+            color: #333;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            font-size: 1.1em;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        p, ul {
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .job li, .skills li {
+            margin-bottom: 6px;
+        }
+
+        .summary p {
+            font-size: 1em;
+            color: #555;
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 0.85em;
+            color: #888;
+            margin-top: 40px;
+        }
+
+        /* Responsive for mobile */
+        @media (max-width: 768px) {
+            .content {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Hamed Jafarinejad</h1>
+            <p>Frontend Developer</p>
+            <div class="contact">
+                <a href="mailto:jafary91.itsu@gmail.com">jafary91.itsu@gmail.com</a> | 
+                <a href="https://www.linkedin.com/in/hamed-jafari-994b6a128/" target="_blank">LinkedIn</a> | 
+                <a href="https://github.com/jafari1995" target="_blank">GitHub</a> |
+                <span>Tehran, Iran</span>
+            </div>
+        </header>
+
+        <div class="content">
+            <!-- Left Column (Summary and Experience) -->
+            <div>
+                <section class="summary">
+                    <h2>Summary</h2>
+                    <p><strong>Frontend Developer</strong> with over <strong>4 years of experience</strong> building <strong>scalable web applications</strong>. Proficient in <strong>Vue.js (Nuxt 3)</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. Experienced in developing <strong>complex platforms</strong> such as <strong>flight OTAs</strong>, <strong>hotel booking systems</strong>, and <strong>CRM solutions</strong>.</p>
+                    <p>Skilled in <strong>integrating RESTful APIs</strong> and <strong>WebSockets</strong> to enhance functionality and ensure seamless performance. Strong focus on writing <strong>clean, efficient, and maintainable code</strong>. Collaborative team player, committed to delivering <strong>user-centered digital experiences</strong> that drive business outcomes and customer satisfaction.</p>
+                </section>
+
+                <section class="experience">
+                    <h2>Experience</h2>
+                    
+                    <div class="job">
+                        <h3>Freelance Frontend Developer | Self-Employed</h3>
+                        <p class="date">Dec 2023 - Present | Remote</p>
+                        <ul>
+                            <li>Developing interactive web applications using <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>Vue.js</strong>.</li>
+                            <li>Integrating <strong>RESTful APIs</strong> and third-party services.</li>
+                            <li>Ensuring responsive design and cross-browser compatibility.</li>
+                        </ul>
+                    </div>
+
+                    <div class="job">
+                        <h3>Frontend Developer Chapter Lead | Dino</h3>
+                        <p class="date">Mar 2023 - Feb 2024</p>
+                        <ul>
+                            <li>Led a team working on scalable systems using <strong>Nuxt 3</strong> and <strong>TypeScript</strong>.</li>
+                            <li>Optimized codebase for <strong>white-label solutions</strong>.</li>
+                            <li>Guided junior developers and conducted code reviews.</li>
+                        </ul>
+                    </div>
+
+                    <div class="job">
+                        <h3>Frontend Developer | DuelHouse (Turkey)</h3>
+                        <p class="date">Jan 2022 - Jan 2023</p>
+                        <ul>
+                            <li>Implemented UI designs with <strong>Nuxt.js</strong> and <strong>Tailwind CSS</strong>.</li>
+                            <li>Improved frontend performance for high-traffic pages.</li>
+                        </ul>
+                    </div>
+
+                    <div class="job">
+                        <h3>Frontend Developer | Basalam (Iran)</h3>
+                        <p class="date">Jun 2020 - Jan 2022</p>
+                        <ul>
+                            <li>Developed <strong>CRM panel</strong> using <strong>Vue.js</strong>.</li>
+                            <li>Worked on various products using <strong>Nuxt.js</strong> and <strong>jQuery</strong>.</li>
+                        </ul>
+                    </div>
+
+                    <div class="job">
+                        <h3>Full Stack & Backend Developer | Basalam & Apco Pars</h3>
+                        <p class="date">Oct 2015 - Aug 2020</p>
+                        <ul>
+                            <li>Developed backend and frontend features using <strong>Laravel</strong> and <strong>Vue.js</strong> for <strong>Basalam</strong>.</li>
+                            <li>Implemented a <strong>CRM panel</strong> using <strong>PHP</strong>, <strong>HTML</strong>, and <strong>Bootstrap</strong> for <strong>Apco Pars Company</strong>.</li>
+                            <li>Developed modules for the <strong>Moodle Learning Management System (LMS)</strong> at <strong>IRBI University</strong>.</li>
+                            <li>Contributed to several minor projects, supporting both backend and frontend development.</li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Right Column (Skills, Languages, Education) -->
+            <div>
+                <section class="skills">
+                    <h2>Skills</h2>
+                    <h3>Frontend Technologies</h3>
+                    <ul>
+                        <li>Nuxt 3, Vue.js, React.js, TypeScript, Tailwind CSS</li>
+                        <li>HTML5, CSS3, Sass, jQuery, Webpack</li>
+                    </ul>
+                    <h3>Version Control & Tools</h3>
+                    <ul>
+                        <li>Git, GitHub, GitLab</li>
+                        <li>Docker</li>
+                    </ul>
+                </section>
+
+                <section class="languages">
+                    <h2>Languages</h2>
+                    <ul>
+                        <li>English - B2 (Upper-Intermediate)</li>
+                        <li>Farsi - Native</li>
+                    </ul>
+                </section>
+
+                <section class="education">
+                    <h2>Education</h2>
+                    <p><strong>Bachelor's in Information Technology</strong><br> Kazerun University, Iran</p>
+                </section>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2025 Hamed Jafarinejad. All rights reserved.</p>
+        </div>
+    </div>
+
+</body>
+</html>
