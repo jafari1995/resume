@@ -1,90 +1,111 @@
-# Hamed Jafarinejad - Frontend Developer
+# 💼 Hamed Jafarinejad – Frontend Developer Resume (HTML Template)
 
-## Contact
-
-📧 **Email:** [jafary91.itsu@gmail.com](mailto:jafary91.itsu@gmail.com)  
-🔗 **LinkedIn:** [Hamed Jafarinejad](https://www.linkedin.com/in/hamed-jafari-994b6a128/)  
-💻 **GitHub:** [jafari1995](https://github.com/jafari1995)  
-📍 **Location:** Tehran, Iran
+This project is a clean, responsive, and printable resume for **Hamed Jafarinejad**, a seasoned **Frontend Developer**. It's built entirely with semantic HTML and CSS, making it easy to maintain, deploy, and share as a portfolio piece or downloadable document.
 
 ---
 
-## Summary
+## 🧾 Table of Contents
 
-**Frontend Developer** with over **4 years of experience** building **scalable web applications**. Proficient in **Vue.js (Nuxt 3)**, **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-Experienced in developing **complex platforms** such as **flight OTAs**, **hotel booking systems**, and **CRM solutions**.  
-Skilled in **integrating RESTful APIs** and **WebSockets**. Passionate about **clean, efficient, and maintainable code**.
-
----
-
-## Experience
-
-### **Freelance Frontend Developer** | _Self-Employed_
-
-📆 **Dec 2023 - Present** | 🌍 _Remote_
-
-- Developing interactive web applications using **React.js**, **Next.js**, and **Vue.js**.
-- Integrating **RESTful APIs** and third-party services.
-- Ensuring **responsive design** and **cross-browser compatibility**.
-
-### **Frontend Developer Chapter Lead** | _Dino_
-
-📆 **Mar 2023 - Feb 2024**
-
-- Led a team working on scalable systems using **Nuxt 3** and **TypeScript**.
-- Optimized codebase for **white-label solutions**.
-- Guided junior developers and conducted **code reviews**.
-
-### **Frontend Developer** | _DuelHouse (Turkey)_
-
-📆 **Jan 2022 - Jan 2023**
-
-- Implemented UI designs with **Nuxt.js** and **Tailwind CSS**.
-- Improved **frontend performance** for high-traffic pages.
-
-### **Frontend Developer** | _Basalam (Iran)_
-
-📆 **Jun 2020 - Jan 2022**
-
-- Developed **CRM panel** using **Vue.js**.
-- Worked on various products using **Nuxt.js** and **jQuery**.
-
-### **Full Stack & Backend Developer** | _Basalam & Apco Pars_
-
-📆 **Oct 2015 - Aug 2020**
-
-- Developed backend and frontend features using **Laravel** and **Vue.js** for **Basalam**.
-- Implemented **CRM panel** using **PHP**, **HTML**, and **Bootstrap** for **Apco Pars Company**.
-- Developed modules for the **Moodle LMS** at **IRBI University**.
+- [Technologies Used](#technologies-used)
+- [Professional Summary](#professional-summary)
+- [Freelance Projects](#freelance-projects)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Languages](#languages)
+- [Education](#education)
+- [Contact Information](#contact-information)
+- [License](#license)
 
 ---
 
-## Skills
+## 🛠 Technologies Used
 
-### **Frontend Technologies**
+- **HTML5** – for semantic structure
+- **CSS3** – for responsive and polished styling
+- **Custom CSS Grid & Media Queries** – for responsive layout
+- **Font** – Arial, sans-serif
 
-✅ Nuxt 3, Vue.js, React.js, TypeScript, Tailwind CSS  
-✅ HTML5, CSS3, Sass, jQuery, Webpack
-
-### **Version Control & Tools**
-
-✅ Git, GitHub, GitLab  
-✅ Docker
+No frameworks or libraries are used, making this resume lightweight and fast to load.
 
 ---
 
-## Languages
+## 🧑‍💻 Professional Summary
 
-🗣 **English** - B2 (Upper-Intermediate)  
-🗣 **Farsi** - Native
+- Over 4 years of experience in frontend development.
+- Expert in building scalable and performant web applications using:
+  - **Vue.js (Nuxt 3)**
+  - **React.js**
+  - **Next.js**
+  - **TypeScript**
+  - **Tailwind CSS**
+  - **MUI** (Material UI)
+  - **Styled Components**
+- Focused on writing clean, maintainable code.
+- Strong collaboration and leadership skills.
 
 ---
 
-## Education
+## 🔧 Freelance Projects
 
-🎓 **Bachelor's in Information Technology**  
-_Kazerun University, Iran_
+- **[assistant.diginext.ir](https://assistant.diginext.ir)**  
+  AI assistant built using **Tailwind CSS** and **Next.js App Router**.
+- **[diginext.ir](https://diginext.ir)**  
+  Maintained and updated the corporate site as a part-time developer.
+
+- **[alsafari.iq](https://alsafari.iq)**  
+  Led the frontend team using **MUI** and **Next.js** for enterprise-level features.
 
 ---
 
-© 2025 **Hamed Jafarinejad**
+## 🧳 Experience (Past Roles)
+
+- **Frontend Developer Chapter Lead – Dino (2023–2024)**
+- **Frontend Developer – DuelHouse, Turkey (2022–2023)**
+- **Frontend Developer – Basalam, Iran (2020–2022)**
+- **Full Stack & Backend Developer – Apco Pars, IRBI University (2015–2020)**
+
+---
+
+## 🧰 Skills
+
+### Frontend Technologies
+
+- Nuxt 3, Vue.js, React.js, Next.js
+- TypeScript, Tailwind CSS, MUI, Styled Components
+- HTML5, CSS3, Sass, jQuery, Webpack
+
+### Tools & Version Control
+
+- Git, GitHub, GitLab
+- Docker, Terminal, VS Code
+
+---
+
+## 🌍 Languages
+
+- **English** – B2 (Upper Intermediate)
+- **Farsi** – Native
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Information Technology**  
+Kazerun University, Iran
+
+---
+
+## 📫 Contact Information
+
+- 📧 **Email:** jafary91.itsu@gmail.com
+- 📞 **Phone:** +98 9100583682
+- 📍 **Location:** Tehran, Iran
+- 🔗 **LinkedIn:** [linkedin.com/in/hamed-jafari-994b6a128](https://www.linkedin.com/in/hamed-jafari-994b6a128/)
+- 💻 **GitHub:** [github.com/jafari1995](https://github.com/jafari1995)
+
+---
+
+## 📄 License
+
+This resume template is © 2025 **Hamed Jafarinejad**. All rights reserved.  
+Feel free to use the structure for inspiration, but please do not reuse personal content without permission.
