@@ -47,13 +47,22 @@ No frameworks or libraries are used, making this resume lightweight and fast to 
 
 ## 🔧 Freelance Projects
 
-- **[assistant.diginext.ir](https://assistant.diginext.ir)**  
-  AI assistant built using **Tailwind CSS** and **Next.js App Router**.
-- **[diginext.ir](https://diginext.ir)**  
-  Maintained and updated the corporate site as a part-time developer.
+## Freelance Projects & Co-founder Experience
 
-- **[alsafari.iq](https://alsafari.iq)**  
-  Led the frontend team using **MUI** and **Next.js** for enterprise-level features.
+### **[assistant.diginext.ir](https://assistant.diginext.ir)**
+
+- **Tech Stack:** **Next.js App Router**, **Tailwind CSS**
+- **Description:** Developed an AI assistant platform that delivers an intuitive user experience and robust functionality using **Next.js App Router** and **Tailwind CSS**. Focused on building a performant and responsive interface to handle complex data and interactions.
+
+### **[diginext.ir](https://diginext.ir)**
+
+- **Tech Stack:** **Nuxt 3**, **Vuetify**, **Sass**, **Tailwind CSS**
+- **Description:** Contributed as a part-time developer, responsible for maintaining and updating the corporate website. Enhanced UI/UX design, optimized code for performance, and ensured the site stayed up to date with new features and technologies.
+
+### **[Zumra Team](https://zumra.iq)**
+
+- **Tech Stack:** **Next.js**, **MUI**
+- **Description:** Co-founded and led the frontend team. I was responsible for the overall technical direction, team workflows, and ensuring timely delivery. I provided hands-on leadership in frontend development and collaborated with the backend team to build web and mobile applications.
 
 ---
 
