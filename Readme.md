@@ -1,6 +1,6 @@
 # 💼 Hamed Jafarinejad – Frontend Developer Resume (HTML Template)
 
-This project is a clean, responsive, and printable resume for **Hamed Jafarinejad**, a seasoned **Frontend Developer**. It's built entirely with semantic HTML and CSS, making it easy to maintain, deploy, and share as a portfolio piece or downloadable document.
+This project is a clean, responsive, and printable resume for **Hamed Jafarinejad**, a skilled **Frontend Developer** with over 4 years of experience. The resume is built using only semantic HTML and CSS, ensuring fast loading, easy maintenance, and full customizability for both web and print use.
 
 ---
 
@@ -8,8 +8,8 @@ This project is a clean, responsive, and printable resume for **Hamed Jafarineja
 
 - [Technologies Used](#technologies-used)
 - [Professional Summary](#professional-summary)
-- [Freelance Projects](#freelance-projects)
 - [Experience](#experience)
+- [Freelance & Projects](#freelance--projects)
 - [Skills](#skills)
 - [Languages](#languages)
 - [Education](#education)
@@ -20,70 +20,97 @@ This project is a clean, responsive, and printable resume for **Hamed Jafarineja
 
 ## 🛠 Technologies Used
 
-- **HTML5** – for semantic structure
-- **CSS3** – for responsive and polished styling
-- **Custom CSS Grid & Media Queries** – for responsive layout
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive, accessible styling
+- **CSS Grid & Media Queries** – Layout and responsiveness
 - **Font** – Arial, sans-serif
 
-No frameworks or libraries are used, making this resume lightweight and fast to load.
+No frameworks or build tools are used — this is a simple and efficient HTML+CSS template.
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-- Over 4 years of experience in frontend development.
-- Expert in building scalable and performant web applications using:
-  - **Vue.js (Nuxt 3)**
-  - **React.js**
-  - **Next.js**
-  - **TypeScript**
-  - **Tailwind CSS**
-  - **MUI** (Material UI)
-  - **Styled Components**
-- Focused on writing clean, maintainable code.
-- Strong collaboration and leadership skills.
+Frontend Developer with **4+ years of experience** creating scalable, responsive web applications. Proficient in:
+
+- **Vue.js (Nuxt 3)**
+- **React.js**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **MUI**
+- **Styled Components**
+
+Specialized in building complex platforms (e.g., **flight OTAs**, **hotel booking systems**, and **CRMs**) and integrating **REST APIs** and **WebSockets**. Passionate about clean, maintainable code and delivering user-centered experiences. Strong collaborator and team player.
 
 ---
 
-## 🔧 Freelance Projects
+## 🧳 Experience
 
-## Freelance Projects & Co-founder Experience
+### **Frontend Developer – Dino**
+
+📅 Mar 2023 – Feb 2024
+
+- Led frontend development of scalable systems using **Nuxt 3** and **TypeScript**
+- Built white-label architecture and optimized performance
+- Mentored junior developers and led code reviews
+
+### **Frontend Developer – DuelHouse (Turkey)**
+
+📅 Jan 2022 – Jan 2023
+
+- Developed responsive interfaces using **Nuxt.js** and **Tailwind CSS**
+- Boosted frontend performance on high-traffic pages
+
+### **Frontend Developer – Basalam (Iran)**
+
+📅 2020 – 2022
+
+- Contributed to large-scale marketplace platform
+- Enhanced UI/UX and maintained code quality
+
+### **Full Stack & Backend Developer – Apco Pars, IRBI University**
+
+📅 2015 – 2020
+
+- Built internal dashboards and backend services
+
+---
+
+## 🔧 Freelance & Projects
+
+### **Zumra Team**
+
+- **Role:** Co-founder & Frontend Lead
+- **Tech:** Next.js, MUI
+- Led frontend architecture, hiring, and development of web/mobile apps
 
 ### **[assistant.diginext.ir](https://assistant.diginext.ir)**
 
-- **Tech Stack:** **Next.js App Router**, **Tailwind CSS**
-- **Description:** Developed an AI assistant platform that delivers an intuitive user experience and robust functionality using **Next.js App Router** and **Tailwind CSS**. Focused on building a performant and responsive interface to handle complex data and interactions.
+- **Tech:** Next.js App Router, Tailwind CSS
+- AI assistant platform with dynamic, data-driven UI
 
 ### **[diginext.ir](https://diginext.ir)**
 
-- **Tech Stack:** **Nuxt 3**, **Vuetify**, **Sass**, **Tailwind CSS**
-- **Description:** Contributed as a part-time developer, responsible for maintaining and updating the corporate website. Enhanced UI/UX design, optimized code for performance, and ensured the site stayed up to date with new features and technologies.
+- **Tech:** Nuxt 3, Vuetify, Sass, Tailwind CSS
+- Maintained and enhanced corporate website
 
-### **[Zumra Team](https://zumra.iq)**
+### **goftomeet.com**
 
-- **Tech Stack:** **Next.js**, **MUI**
-- **Description:** Co-founded and led the frontend team. I was responsible for the overall technical direction, team workflows, and ensuring timely delivery. I provided hands-on leadership in frontend development and collaborated with the backend team to build web and mobile applications.
-
----
-
-## 🧳 Experience (Past Roles)
-
-- **Frontend Developer Chapter Lead – Dino (2023–2024)**
-- **Frontend Developer – DuelHouse, Turkey (2022–2023)**
-- **Frontend Developer – Basalam, Iran (2020–2022)**
-- **Full Stack & Backend Developer – Apco Pars, IRBI University (2015–2020)**
+- Community platform connecting Persian-speaking mentors and mentees
+- Features: session scheduling, event participation, and profile management
 
 ---
 
 ## 🧰 Skills
 
-### Frontend Technologies
+### Frontend
 
-- Nuxt 3, Vue.js, React.js, Next.js
+- Vue.js, Nuxt 3, React.js, Next.js
 - TypeScript, Tailwind CSS, MUI, Styled Components
-- HTML5, CSS3, Sass, jQuery, Webpack
+- HTML5, CSS3, Sass, Webpack, jQuery
 
-### Tools & Version Control
+### Tools & DevOps
 
 - Git, GitHub, GitLab
 - Docker, Terminal, VS Code
@@ -92,29 +119,29 @@ No frameworks or libraries are used, making this resume lightweight and fast to 
 
 ## 🌍 Languages
 
-- **English** – B2 (Upper Intermediate)
-- **Farsi** – Native
+- **English:** B2 (Upper Intermediate)
+- **Farsi:** Native
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's Degree in Information Technology**  
+**Bachelor’s Degree in Information Technology**  
 Kazerun University, Iran
 
 ---
 
 ## 📫 Contact Information
 
-- 📧 **Email:** jafary91.itsu@gmail.com
-- 📞 **Phone:** +98 9100583682
-- 📍 **Location:** Tehran, Iran
-- 🔗 **LinkedIn:** [linkedin.com/in/hamed-jafari-994b6a128](https://www.linkedin.com/in/hamed-jafari-994b6a128/)
-- 💻 **GitHub:** [github.com/jafari1995](https://github.com/jafari1995)
+- 📧 Email: [jafary91.itsu@gmail.com](mailto:jafary91.itsu@gmail.com)
+- 📞 Phone: +98 9100583682
+- 📍 Location: Tehran, Iran
+- 🔗 LinkedIn: [linkedin.com/in/hamed-jafari-994b6a128](https://www.linkedin.com/in/hamed-jafari-994b6a128)
+- 💻 GitHub: [github.com/jafari1995](https://github.com/jafari1995)
 
 ---
 
 ## 📄 License
 
-This resume template is © 2025 **Hamed Jafarinejad**. All rights reserved.  
-Feel free to use the structure for inspiration, but please do not reuse personal content without permission.
+This resume template is © 2025 **Hamed Jafarinejad**.  
+Feel free to reuse the layout and structure for inspiration. Please do not copy the personal content without permission.
